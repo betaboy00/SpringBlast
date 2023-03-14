@@ -38,7 +38,7 @@ On the left you can read every single element with his class */
 }
 
 .boxawayteam {
-  justify-content: flex-start; padding-left:9vw;
+  justify-content: flex-start; padding-left:9vw; font-size: 1.0em;
 }
 .boxawayteam:before {
   left:1vw;
