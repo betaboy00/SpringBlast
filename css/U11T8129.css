@@ -29,7 +29,7 @@ On the left you can read every single element with his class */
   height: 8vw;
 }
 .boxhometeam {
-  justify-content: flex-end; padding-right:9vw;
+  justify-content: flex-end; padding-right:9vw; font-size: 1.0em;
 }
 .boxhometeam:before {
   right:1vw;
