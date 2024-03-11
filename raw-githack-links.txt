@@ -7,3 +7,15 @@ https://rawcdn.githack.com/betaboy00/SpringBlast/353740901d9999741baaf0ff791684b
 https://rawcdn.githack.com/betaboy00/SpringBlast/353740901d9999741baaf0ff791684b291599be5/img/VanMinor.png
 
 
+https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/Burnaby-NorthVan.css
+
+https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/Burnaby-Richmond.css
+
+https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/NorthVan-VanMinor.css
+
+https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/Richmond-NorthVan.css
+
+https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/VanMinor-Burnaby.css
+
+https://github.com/betaboy00/SpringBlast/blob/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/VanMinor-Richmond.css
+
