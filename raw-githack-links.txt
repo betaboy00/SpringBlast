@@ -17,5 +17,5 @@ https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d294
 
 https://rawcdn.githack.com/betaboy00/SpringBlast/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/VanMinor-Burnaby.css
 
-https://github.com/betaboy00/SpringBlast/blob/f07bc663c05d69c1144ca7fdab1d29481b0a3984/css/2024/U15/VanMinor-Richmond.css
+https://rawcdn.githack.com/betaboy00/SpringBlast/b2a92ece7294a98b8abf3f16cda03ab9e037950b/css/2024/U15/VanMinor-Richmond.css
 
